@@ -1,5 +1,10 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos-Felipe-A&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos-Felipe-A&show_icons=true&theme=merko)
+
+🌱 I’m currently learning.
+
+Thank you!
+
 <!--
 **Santos-Felipe-A/Santos-Felipe-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
