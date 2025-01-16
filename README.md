@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos-Felipe-A&show_icons=true&theme=merko)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Felipe-A&size_weight=0.5&count_weight=0.5&layout=compact) ] -->
 
 🌱 I’m currently learning.
 
